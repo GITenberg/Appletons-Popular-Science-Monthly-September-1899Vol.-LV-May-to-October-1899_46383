@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42173'
     url: http://www.gutenberg.org/2009/agents/42173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46383#Appletons-Popular-Science-Monthly-September-1899Vol.-LV-May-to-October-1899
 gutenberg_issued: '2014-07-23'
 gutenberg_type: Text
 identifiers:
